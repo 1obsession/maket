@@ -1,0 +1,227 @@
+.navbar-brand {
+  font-weight: 900;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-item {
+  padding-left: 2em;
+}
+.header {
+  padding: 1em;
+}
+.active {
+  font-weight: bold;
+}
+.hello {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 14px 43px;
+  gap: 10px;
+
+  position: absolute;
+  width: 197px;
+  height: 72px;
+  left: 269px;
+  top: 300px;
+
+  background: linear-gradient(90deg, #32f6f6 0%, #a6a79f 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px 50px 50px 0px;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+}
+.about {
+  font-size: 45px;
+  text-shadow: 0px 1px 2px black;
+  position: absolute;
+  display: flex;
+  left: 269px;
+  top: 390px;
+  gap: 10px;
+}
+.mir {
+  color: grey;
+  text-shadow: black;
+}
+.about_1 {
+  position: absolute;
+  display: flex;
+  left: 269px;
+  top: 460px;
+  gap: 10px;
+  line-height: 31px;
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.buttons {
+  position: absolute;
+  display: flex;
+  left: 269px;
+  top: 600px;
+  gap: 20px;
+}
+.button {
+  background-color: orange; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 25px;
+}
+.button_1 {
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 25px;
+}
+#lol {
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  padding: 3px 82px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 25px;
+  position: absolute;
+  left: 90px;
+  top: 58px;
+  transform: rotate(-1deg);
+}
+.ul {
+  list-style-type: none;
+}
+.socials {
+  position: absolute;
+  left: 100px;
+  top: 580px;
+  z-index: 999;
+}
+.soc {
+  padding: 13px;
+  filter: drop-shadow(0px 0px 1px black);
+}
+.eclipse_1 {
+  position: absolute;
+  left: 37px;
+  top: 11px;
+  filter: drop-shadow(0px 0px 1px black);
+}
+.eclipse_2 {
+  position: absolute;
+  left: 37px;
+  top: 60px;
+  filter: drop-shadow(0px 0px 1px black);
+}
+.eclipse_3 {
+  position: absolute;
+  left: 37px;
+  top: 110px;
+  filter: drop-shadow(0px 0px 1px black);
+}
+.eclipse_4 {
+  position: absolute;
+  left: 37px;
+  top: 162px;
+  filter: drop-shadow(0px 0px 1px black);
+}
+.eclipse_5 {
+  position: absolute;
+  left: 37px;
+  top: 212px;
+  filter: drop-shadow(0px 0px 1px black);
+}
+.sc {
+  position: relative;
+  right: 2px;
+  filter: drop-shadow(0px 0px 1px black);
+}
+.mail {
+  position: absolute;
+  left: 1700px;
+  top: 750px;
+  transform: rotate(-90deg);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.lol1 {
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  padding: 3px 9px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0px 10px 25px;
+  transform: rotate(90deg);
+  position: relative;
+  right: 10px;
+}
+.vpteXx {
+  text-shadow: 0px 1px 2px black;
+  padding-left: 10px;
+}
+.container-fluid {
+  padding-left: 75px;
+}
+.photo {
+  position: absolute;
+  right: 300px;
+  top: 150px;
+}
+.vector1 {
+  position: absolute;
+  top: 120px;
+  z-index: 2;
+}
+.rectangle {
+  position: absolute;
+  top: -10px;
+  z-index: 521;
+}
+.vector4 {
+  position: absolute;
+  top: 580px;
+  left: 400px;
+}
+.vector5 {
+  position: absolute;
+  top: 500px;
+  left: 1200px;
+}
+.vector3 {
+  position: absolute;
+  top: 80px;
+  left: 1554px;
+}
+.aboutme {
+  position: absolute;
+  left: 530px;
+  top: 150px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+}
+.hr {
+  size: 100px;
+}
+.textabout {
+  font-size: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+  line-height: 24px;
+  font-weight: 300;
+}
